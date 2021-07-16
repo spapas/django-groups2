@@ -18,11 +18,11 @@ Requirements
 This works with Django 3+ and Python 3.6+. It will also install ``django-treebeard``.
 
 Installation
-------------\
+------------
 
 Run 
 
-pip install django-groups2
+``pip install django-groups2``
 
 Add  ``"groups2"`` and ``"treebeard"`` to your ``INSTALLED_APPS`` setting.
 
