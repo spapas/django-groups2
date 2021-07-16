@@ -12,6 +12,16 @@ Capabilities
 * Has an one-to-one relationship with builtin `Group` (created automatically on save) which is used to keep user members and any needed permissions
 * Allows user membership to be edited through django-admin
 
+Requirements
+------------
+
+This works with django 3+ and python 3.6+. It will also install django-treebeard.
+
+Installation
+------------
+
+Add  ``"groups2"`` and ``"treebeard"`` to your ``INSTALLED_APPS`` setting.
+
 v.0.1.0
 -------
 
