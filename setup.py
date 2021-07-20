@@ -12,7 +12,7 @@ install_requires = [
 
 setup(
     name='django-groups2',
-    version='0.0.1',
+    version='0.1.1',
     description="An application for having better groups in Django",
     long_description=readme(),
     author='Serafeim Papastefanos',
